@@ -1,4 +1,5 @@
-""" 使うときはコメントアウト外してね
+""" 
+使うときはコメントアウト外してね
 import tweepy
 import calendar
 import random
@@ -31,4 +32,5 @@ def main():
 
     api.update_status('今は' + str(year) + '年' + str(month) + '月' + str(day) + '日です。')
 
-main() """
+main() 
+"""
